@@ -1,15 +1,4 @@
- Volume in drive C has no label.
- Volume Serial Number is CE9F-4BE8
-
- Directory of C:\git-project
-
-10-02-2020  19:03    <DIR>          .
-10-02-2020  19:03    <DIR>          ..
-10-02-2020  19:03                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  60.798.668.800 bytes free
-
-
+================
 
 test
 added
